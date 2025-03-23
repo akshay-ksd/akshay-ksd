@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-ksd&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-ksd" /> </p>
 
-- 🔭 Ott Platform [Little Goodness](https://play.google.com/store/apps/details?id=com.littlegoodness&hl=en-IN)
+- 🔭 Fitness /tracker [Fit Tracker](https://main.ddjdagtpta1b4.amplifyapp.com/)
 
 - 📫 How to reach me **akshaykarandakkad92@gmail.com**
 
